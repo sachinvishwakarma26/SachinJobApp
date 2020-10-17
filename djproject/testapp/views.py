@@ -5,7 +5,7 @@ from testapp.models import blorejobs, chennaijobs, hydjobs, punejobs, noidajobs
 # Create your views here.
 
 """
-this job Website is developed by sachin
+this job Website is developed by sachin and his Team
 """
 def index(request):
     return render(request, 'testapp/index1.html')
