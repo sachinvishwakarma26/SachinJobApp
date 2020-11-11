@@ -4,4 +4,4 @@ django==3.1.2
 djangorestframework==3.12.1
 sqlparse==0.4.1
 asgiref==3.2.10
-pyyaml==1.1
+pyyaml==5.1
